@@ -1,0 +1,13 @@
+# Ambiente
+.env
+*.env
+
+# IDEs
+.idea/
+.vscode/
+
+# PHP/Laravel (se for o caso)
+/vendor/
+/node_modules/
+storage/*.key
+*.log
